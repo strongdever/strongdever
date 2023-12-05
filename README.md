@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## Technologies and skills
 HTML, CSS, React, Node.js, Git, Agile, Scrum
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
