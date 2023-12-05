@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Technologies and skills
-HTML," "CSS," "React," "Node.js," "Git," "Agile," "Scrum,"
+HTML, CSS, React, Node.js, Git, Agile, Scrum
