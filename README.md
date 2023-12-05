@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">## Technologies and skills</h3>
+## Technologies and skills
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Welcome+to+my+github+and+resume.;I+am+a+senior+Full+Stack+developer.)](https://git.io/typing-svg)
 
 
